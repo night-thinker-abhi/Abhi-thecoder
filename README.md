@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Myself Abhishek Das, A CSE Undergraduate and Motivated Web Developer with internship experiences in various companies and certifications in Programming, Hackathons seeking to develop extensive experience working with new technologies. 
+
+ 📫 Discuss a project? My Inbox is open for all: 
+
+   * LinkedIn - [-abhishek-das-](https://www.linkedin.com/in/-abhishek-das-/)
+   * Twitter - [_abhishek_das_](https://twitter.com/_abhishek_das_)
+   
