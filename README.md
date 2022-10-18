@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Myself Abhishek Das, A CSE Undergraduate and Motivated Web Developer with internship experiences in various companies and certifications in Programming, Hackathons seeking to develop extensive experience working with new technologies. 
+Myself Abhishek Das, A CSE Undergraduate and Motivated SDE-1 with 2 years of work experience in IT sector and internships in various companies and certifications in Programming, Hackathons seeking to develop extensive experience working with new technologies. 
 
  📫 Discuss a project? My Inbox is open for all: 
 
